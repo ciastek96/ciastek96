@@ -6,7 +6,6 @@ I'm a beginner frontend developer looking for first commercial experience. In my
 [![Gmail Badge](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kamil.kolacz@outlook.com)
 
 ## 🔧 Technologies
-https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/ciastek96/)](https://github.com/ciastek96/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&link=https://github.com/ciastek96/)](https://github.com/ciastek96/)
