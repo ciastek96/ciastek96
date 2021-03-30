@@ -2,6 +2,7 @@
 
 I'm a beginner frontend developer looking for first commercial experience. In my projects I put a strong emphasis on visual aspects.
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0070f3?style=for-the-badge&link=https://kkolacz.netlify.app/)](https://kkolacz.netlify.app/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamil-kołacz/)](https://www.linkedin.com/in/kamil-kołacz/)
 [![Gmail Badge](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kamil.kolacz@outlook.com)
 
@@ -15,3 +16,4 @@ I'm a beginner frontend developer looking for first commercial experience. In my
 [![React](https://img.shields.io/badge/-React-E6F9FF?style=for-the-badge&logo=react)](https://github.com/ciastek96/)
 [![Redux](https://img.shields.io/badge/-Redux-FBEAFF?style=for-the-badge&logo=Redux&logoColor=764abc)](https://github.com/ciastek96/)
 [![Git](https://img.shields.io/badge/-Git-3D2D00?style=for-the-badge&logo=git&link=https://github.com/ciastek96/)](https://github.com/ciastek96/)
+ 
